@@ -7,6 +7,10 @@
   --purpura: #331a38;
 }
 /*#endregion */
+
+.div-flex{
+  display: flex;
+}
 .App {
   text-align: center;
 }
