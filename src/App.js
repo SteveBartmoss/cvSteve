@@ -7,13 +7,14 @@ function App() {
 
       <div className='div-flex'>
 
-        <div>
+        <div className='div-nav'>
 
           <div className='div-img'>
             <img className='img-profile' src='/Assets/racheBartmoss.jpg' />
           </div>
 
           <div>
+
             <div>
               <a>Antonio</a>
             </div>
