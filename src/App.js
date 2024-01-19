@@ -4,11 +4,35 @@ import './App.css';
 function App() {
   return (
     <div className="App App-header">
-      <div>
+      <div className='div-flex'>
+        
         <div>
           <div>
             <img src='/Assets/racheBartmoss.jpg' />
           </div>
+          <div>
+            <div>
+              <a>Antonio</a>
+            </div>
+            <div>
+              <a>Sobre Mi</a>
+            </div>
+            <div>
+              <a>Porfolio</a>
+            </div>
+            <div>
+              <a>Educacion</a>
+            </div>
+            <div>
+              <a>Skills</a>
+            </div>
+            <div>
+              <a>Contacto</a>
+            </div>
+          </div>
+        </div>
+        
+        <div>
           <div>
             <h1>Antonio Rivas</h1>
             <p>Bienvenido a mi portafolio como Desarrollador Trainee</p>
@@ -17,14 +41,13 @@ function App() {
             <a>Ver CV</a>
             <h1>lateral</h1>
           </div>
-
         </div>
         <div>
           <h1>Sobre Mi</h1>
           <p>
-            Joven con pasión por su profesión que busca mejorar en el desarrollo 
-            web, usuario de sistemas de linux y aplicaciones open source y que busca 
-            busca convertirse en un desarrolador full stack a la vez que aprende nuevas 
+            Joven con pasión por su profesión que busca mejorar en el desarrollo
+            web, usuario de sistemas de linux y aplicaciones open source y que busca
+            busca convertirse en un desarrolador full stack a la vez que aprende nuevas
             habilidades y tecnologias.
           </p>
           <h1>Actualmente trabajo como codficador externo para Bansi SA</h1>
