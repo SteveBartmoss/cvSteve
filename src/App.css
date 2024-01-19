@@ -11,6 +11,18 @@
 .div-flex{
   display: flex;
 }
+
+.div-img{
+  width: 12rem;
+  height: 12rem;
+}
+
+.img-profile{
+  width: 12rem;
+  height: 12rem;
+}
+
+
 .App {
   text-align: center;
 }
