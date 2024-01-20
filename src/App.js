@@ -47,8 +47,8 @@ function App() {
             </div>
 
             <div className='div-content'>
-              <p>Bienvenido a mi portafolio como Desarrollador Trainee</p>
-              <p>Puedes contactar conmigo en mi correo</p>
+              <p className='text-content'>Bienvenido a mi portafolio como Desarrollador Trainee</p>
+              <p className='text-content'>Puedes contactar conmigo en mi correo</p>
               <button>Generar CV</button>
               <a>Ver CV</a>
             </div>
