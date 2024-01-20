@@ -14,12 +14,11 @@ function App() {
           </div>
 
           <div>
-
             <div>
               <a>Antonio</a>
             </div>
             <div>
-              <a>Sobre Mi</a>
+              <a href='sobre-mi'>Sobre Mi</a>
             </div>
             <div>
               <a>Porfolio</a>
@@ -37,7 +36,7 @@ function App() {
 
         </div>
 
-        <div>
+        <div className='div-page'>
 
           <div>
             <div>
@@ -50,33 +49,34 @@ function App() {
             </div>
           </div>
 
+          <div id='sobre-mi'>
+            <h1>Sobre Mi</h1>
+            <p>
+              Joven con pasión por su profesión que busca mejorar en el desarrollo
+              web, usuario de sistemas de linux y aplicaciones open source y que busca
+              busca convertirse en un desarrolador full stack a la vez que aprende nuevas
+              habilidades y tecnologias.
+            </p>
+            <h1>Actualmente trabajo como codficador externo para Bansi SA</h1>
+          </div>
+
           <div>
-          <h1>Sobre Mi</h1>
-          <p>
-            Joven con pasión por su profesión que busca mejorar en el desarrollo
-            web, usuario de sistemas de linux y aplicaciones open source y que busca
-            busca convertirse en un desarrolador full stack a la vez que aprende nuevas
-            habilidades y tecnologias.
-          </p>
-          <h1>Actualmente trabajo como codficador externo para Bansi SA</h1>
-        </div>
+            <h1>Porfolio</h1>
+            <p>Poner cards de mis proyectos en steveapp</p>
+          </div>
 
-        <div>
-          <h1>Porfolio</h1>
-          <p>Poner cards de mis proyectos en steveapp</p>
-        </div>
+          <div>
+            <h1>Educacion</h1>
+            <p>Poner la informacion academica</p>
+          </div>
 
-        <div>
-          <h1>Educacion</h1>
-        </div>
+          <div>
+            <h1>Skills</h1>
+          </div>
 
-        <div>
-          <h1>Skills</h1>
-        </div>
-
-        <div>
-          <h1>Contacto</h1>
-        </div>
+          <div>
+            <h1>Contacto</h1>
+          </div>
 
         </div>
 
