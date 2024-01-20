@@ -18,6 +18,11 @@
   color: var(--aqua);
 }
 
+.tittle-section{
+  font-size: 5rem;
+  color: var(--rosa);
+}
+
 .div-flex{
   display: flex;
 }
