@@ -24,6 +24,11 @@
   color: var(--rosa);
 }
 
+.text-content{
+  font-size: 2rem;
+  color: var(--azul);
+}
+
 .div-flex{
   display: flex;
 }
