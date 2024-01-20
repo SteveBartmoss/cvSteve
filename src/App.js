@@ -56,14 +56,21 @@ function App() {
           </div>
 
           <div id='sobre-mi'>
-            <h1>Sobre Mi</h1>
-            <p>
-              Joven con pasión por su profesión que busca mejorar en el desarrollo
-              web, usuario de sistemas de linux y aplicaciones open source y que busca
-              busca convertirse en un desarrolador full stack a la vez que aprende nuevas
-              habilidades y tecnologias.
-            </p>
-            <h1>Actualmente trabajo como codficador externo para Bansi SA</h1>
+
+            <div className='div-tittle'>
+              <h1 className='tittle-section'>Sobre Mi</h1>
+            </div>
+
+            <div className='div-content'>
+              <p className='text-content'>
+                Joven con pasión por su profesión que busca mejorar en el desarrollo
+                web, usuario de sistemas de linux y aplicaciones open source y que busca
+                busca convertirse en un desarrolador full stack a la vez que aprende nuevas
+                habilidades y tecnologias.
+              </p>
+              <h1 className='sub-tittle'>Actualmente trabajo como codficador externo para Bansi SA</h1>
+            </div>
+
           </div>
 
           <div>
