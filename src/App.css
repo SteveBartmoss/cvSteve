@@ -5,8 +5,8 @@
   --aqua: #43b5a0;
   --morado: #491d88;
   --purpura: #331a38;
-  --griss1: #424A5A;
-  --griss1: #282c34;
+  --griss1: #3E4451;
+  --griss2: #282c34;
 }
 /*#endregion */
 
@@ -31,6 +31,7 @@
 
 .div-nav{
   width: 20%;
+  background-color: var(--griss1);
 }
 
 .div-list{
