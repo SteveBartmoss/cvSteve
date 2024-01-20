@@ -43,7 +43,7 @@ function App() {
           <div className='div-section'>
 
             <div className='div-tittle'>
-              <h1>Antonio Rivas</h1>
+              <h1 className='tittle-section'>Antonio Rivas</h1>
             </div>
 
             <div className='div-content'>
