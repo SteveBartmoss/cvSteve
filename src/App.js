@@ -13,7 +13,7 @@ function App() {
             <img className='img-profile' src='/Assets/racheBartmoss.jpg' />
           </div>
 
-          <div>
+          <div className='div-list'>
             <div>
               <a>Antonio</a>
             </div>
