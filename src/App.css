@@ -51,6 +51,12 @@
   margin-left: 3rem;
 }
 
+.div-content{
+  width: fit-content;
+  text-align: left;
+  margin-left: 3rem;
+}
+
 .img-profile{
   width: 12rem;
   height: 12rem;
