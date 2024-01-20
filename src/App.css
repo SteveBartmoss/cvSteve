@@ -8,6 +8,14 @@
 }
 /*#endregion */
 
+.nav-li{
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-decoration-color: var(--aqua);
+  color: var(--aqua);
+}
+
 .div-flex{
   display: flex;
 }
