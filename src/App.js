@@ -40,15 +40,18 @@ function App() {
 
         <div className='div-page'>
 
-          <div>
-            <div>
+          <div className='div-section'>
+
+            <div className='div-tittle'>
               <h1>Antonio Rivas</h1>
-              <p>Bienvenido a mi portafolio como Desarrollador Trainee</p>
-              <p>Puedes contactar conmigo en mi correo</p>
-              <button>Generar CV</button>
-              <a>Ver CV</a>
-              <h1>lateral</h1>
             </div>
+
+            <p>Bienvenido a mi portafolio como Desarrollador Trainee</p>
+            <p>Puedes contactar conmigo en mi correo</p>
+            <button>Generar CV</button>
+            <a>Ver CV</a>
+            <h1>lateral</h1>
+
           </div>
 
           <div id='sobre-mi'>
