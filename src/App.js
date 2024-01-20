@@ -55,7 +55,7 @@ function App() {
 
           </div>
 
-          <div id='sobre-mi'>
+          <div className='div-section' id='sobre-mi'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Sobre Mi</h1>
@@ -73,22 +73,42 @@ function App() {
 
           </div>
 
-          <div>
-            <h1>Porfolio</h1>
-            <p>Poner cards de mis proyectos en steveapp</p>
+          <div className='div-section'>
+
+            <div className='div-tittle'>
+              <h1 className='tittle-section'>Porfolio</h1>
+            </div>
+
+            <div>
+              <p>Poner cards de mis proyectos en steveapp</p>
+            </div>
+
           </div>
 
-          <div>
-            <h1>Educacion</h1>
+          <div className='div-section'>
+
+            <div className='div-tittle'>
+              <h1 className='tittle-section'>Educacion</h1>
+            </div>
+
             <p>Poner la informacion academica</p>
+
           </div>
 
-          <div>
-            <h1>Skills</h1>
+          <div className='div-section'>
+
+            <div className='div-tittle'>
+              <h1 className='tittle-section'>Skills</h1>
+            </div>
+
           </div>
 
-          <div>
-            <h1>Contacto</h1>
+          <div className='div-section'>
+
+            <div className='div-tittle'>
+              <h1 className='tittle-section'>Contacto</h1>
+            </div>
+
           </div>
 
         </div>
