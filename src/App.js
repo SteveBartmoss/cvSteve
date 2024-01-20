@@ -14,24 +14,26 @@ function App() {
           </div>
 
           <div className='div-list'>
+
             <div>
-              <a>Antonio</a>
+              <a className='nav-li'>Antonio</a>
             </div>
             <div>
-              <a href='sobre-mi'>Sobre Mi</a>
+              <a className='nav-li' href='sobre-mi'>Sobre Mi</a>
             </div>
             <div>
-              <a>Porfolio</a>
+              <a className='nav-li' >Porfolio</a>
             </div>
             <div>
-              <a>Educacion</a>
+              <a className='nav-li' >Educacion</a>
             </div>
             <div>
-              <a>Skills</a>
+              <a className='nav-li' >Skills</a>
             </div>
             <div>
-              <a>Contacto</a>
+              <a className='nav-li' >Contacto</a>
             </div>
+
           </div>
 
         </div>
