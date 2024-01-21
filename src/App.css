@@ -34,6 +34,13 @@
   color: var(--azul);
 }
 
+.btn{
+  background-color: var(--aqua);
+  border: none;
+  font-size: 1.5rem;
+  border-radius: .5rem;
+}
+
 .div-flex{
   display: flex;
 }
