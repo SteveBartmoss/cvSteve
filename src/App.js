@@ -79,6 +79,7 @@ function App() {
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Porfolio</h1>
+            </div>
 
               <div className='div-cards'>
 
@@ -106,8 +107,6 @@ function App() {
                 </div>
 
               </div>
-
-            </div>
 
           </div>
 
