@@ -97,15 +97,27 @@
   gap: 1rem;
 }
 
+.div-cards{
+  display: flex;
+  flex-direction: row;
+}
+
+.card{
+  
+}
+
 .img-profile{
   width: 12rem;
   height: 12rem;
 }
 
-.div-cards{
-  display: flex;
-  flex-direction: row;
+.img-card{
+  width: 14rem;
+  height: 14rem;
+  margin: auto;
 }
+
+
 
 
 .App {
