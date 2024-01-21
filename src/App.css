@@ -87,6 +87,12 @@
   margin-left: 3rem;
 }
 
+.div-buttons{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
 .img-profile{
   width: 12rem;
   height: 12rem;
