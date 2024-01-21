@@ -16,22 +16,22 @@ function App() {
           <div className='div-list'>
 
             <div>
-              <a className='nav-li'>Antonio</a>
+              <a className='nav-li' href='antonio'>Antonio</a>
             </div>
             <div>
               <a className='nav-li' href='sobre-mi'>Sobre Mi</a>
             </div>
             <div>
-              <a className='nav-li' >Porfolio</a>
+              <a className='nav-li' href='porfolio'>Porfolio</a>
             </div>
             <div>
-              <a className='nav-li' >Educacion</a>
+              <a className='nav-li'  href='educacion'>Educacion</a>
             </div>
             <div>
-              <a className='nav-li' >Skills</a>
+              <a className='nav-li' href='skills'>Skills</a>
             </div>
             <div>
-              <a className='nav-li' >Contacto</a>
+              <a className='nav-li' href='contacto'>Contacto</a>
             </div>
 
           </div>
@@ -40,7 +40,7 @@ function App() {
 
         <div className='div-page'>
 
-          <div className='div-section'>
+          <div className='div-section' id='antonio'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Antonio Rivas</h1>
@@ -75,7 +75,7 @@ function App() {
 
           </div>
 
-          <div className='div-section'>
+          <div className='div-section' id='porfolio'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Porfolio</h1>
@@ -111,7 +111,7 @@ function App() {
 
           </div>
 
-          <div className='div-section'>
+          <div className='div-section' id='educacion'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Educacion</h1>
@@ -121,7 +121,7 @@ function App() {
 
           </div>
 
-          <div className='div-section'>
+          <div className='div-section' id='skills'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Skills</h1>
@@ -129,7 +129,7 @@ function App() {
 
           </div>
 
-          <div className='div-section'>
+          <div className='div-section' id='contacto'>
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Contacto</h1>
