@@ -103,6 +103,13 @@
   gap: 1rem;
 }
 
+.div-img-card{
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  margin-top: 1rem;
+}
+
 .card{
   background-color: var(--griss1);
 }
