@@ -83,12 +83,14 @@ function App() {
               <div className='div-cards'>
 
                 <div className='card'>
-                  <img className='img-card' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+                  <div className='div-img-card'>
+                    <img className='img-card' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+                  </div>
                   <h1>GifExpert App</h1>
                   <p>Una divertida aplicacion para buscar gifs</p>
                 </div>
 
-                <div  className='card'>
+                <div className='card'>
                   <img className='img-card' src='https://media0.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif?cid=53b38410859r2noo4mtwsxsutzjbksi2voz4kt2vm5p19qac&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
                   <h1>Oraculo App</h1>
                   <p>Una aplicacion para responder tus preguntas</p>
