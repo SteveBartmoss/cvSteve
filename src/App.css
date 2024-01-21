@@ -24,6 +24,11 @@
   color: var(--rosa);
 }
 
+.sub-tittle{
+  font-size: 2.5rem;
+  color: var(--amarillo);
+}
+
 .text-content{
   font-size: 2rem;
   color: var(--azul);
