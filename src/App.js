@@ -88,7 +88,7 @@ function App() {
                   </div>
                   <div className='div-content-card'>
                     <h1>GifExpert App</h1>
-                    <p>Una divertida aplicacion para buscar gifs</p>
+                    <p className='text-content'>Una divertida aplicacion para buscar gifs</p>
                   </div>
 
                 </div>
@@ -99,7 +99,7 @@ function App() {
                   </div>
                   <div className='div-content-card'>
                     <h1>Oraculo App</h1>
-                    <p>Una aplicacion para responder tus preguntas</p>
+                    <p className='text-content'>Una aplicacion para responder tus preguntas</p>
                   </div>
                 </div>
 
