@@ -106,6 +106,7 @@
   display: flex;
   flex-direction: row;
   gap: 1rem;
+  margin-left: 2rem;
 }
 
 .div-img-card{
@@ -124,6 +125,7 @@
 
 .card{
   background-color: var(--griss1);
+  border-radius: .5rem;
 }
 
 .img-profile{
