@@ -119,12 +119,8 @@ function App() {
             <h1 className='sub-tittle'>Tec MM Unidad Academica Zapopan, Guadalajara, Jalisco</h1>
 
             <p className='text-content'>
-              Joven con pasión por su profesión que busca mejorar en el desarrollo
-              web, usuario de sistemas de linux y aplicaciones open source y que busca
-              busca convertirse en un desarrolador full stack a la vez que aprende nuevas
-              habilidades y tecnologias.
+              2019 - 2024 Actualmente soy egresado de la carrera de Ingenieria en Sistemas
             </p>
-            <h1 className='sub-tittle'>Actualmente trabajo como codficador externo para Bansi SA</h1>
 
           </div>
 
