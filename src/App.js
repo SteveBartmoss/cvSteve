@@ -25,7 +25,7 @@ function App() {
               <a className='nav-li' href='porfolio'>Porfolio</a>
             </div>
             <div>
-              <a className='nav-li'  href='educacion'>Educacion</a>
+              <a className='nav-li' href='educacion'>Educacion</a>
             </div>
             <div>
               <a className='nav-li' href='skills'>Skills</a>
@@ -81,32 +81,32 @@ function App() {
               <h1 className='tittle-section'>Porfolio</h1>
             </div>
 
-              <div className='div-cards'>
+            <div className='div-cards'>
 
-                <div className='card'>
-                  <div className='div-img-card'>
-                    <img className='img-card' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
-                  </div>
-                  <div className='div-content-card'>
-                    <h1 className='tittle-card'>GifExpert App</h1>
-                    <p className='text-content'>Una divertida aplicacion para buscar gifs</p>
-                    <a className='link' href='https://stevechambitas.netlify.app/havefun/gifapp' rel="noopener noreferrer" target="_blank" >Ver app</a>
-                  </div>
-
+              <div className='card'>
+                <div className='div-img-card'>
+                  <img className='img-card' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
                 </div>
-
-                <div className='card'>
-                  <div className='div-img-card'>
-                    <img className='img-card' src='https://media0.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif?cid=53b38410859r2noo4mtwsxsutzjbksi2voz4kt2vm5p19qac&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
-                  </div>
-                  <div className='div-content-card'>
-                    <h1 className='tittle-card'>Oraculo App</h1>
-                    <p className='text-content'>Una aplicacion para responder tus preguntas</p>
-                    <a className='link' href='https://stevechambitas.netlify.app/havefun/yesornotapp' rel="noopener noreferrer" target="_blank">Ver app</a>
-                  </div>
+                <div className='div-content-card'>
+                  <h1 className='tittle-card'>GifExpert App</h1>
+                  <p className='text-content'>Una divertida aplicacion para buscar gifs</p>
+                  <a className='link' href='https://stevechambitas.netlify.app/havefun/gifapp' rel="noopener noreferrer" target="_blank" >Ver app</a>
                 </div>
 
               </div>
+
+              <div className='card'>
+                <div className='div-img-card'>
+                  <img className='img-card' src='https://media0.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif?cid=53b38410859r2noo4mtwsxsutzjbksi2voz4kt2vm5p19qac&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+                </div>
+                <div className='div-content-card'>
+                  <h1 className='tittle-card'>Oraculo App</h1>
+                  <p className='text-content'>Una aplicacion para responder tus preguntas</p>
+                  <a className='link' href='https://stevechambitas.netlify.app/havefun/yesornotapp' rel="noopener noreferrer" target="_blank">Ver app</a>
+                </div>
+              </div>
+
+            </div>
 
           </div>
 
@@ -116,7 +116,15 @@ function App() {
               <h1 className='tittle-section'>Educacion</h1>
             </div>
 
-            <p>Poner la informacion academica</p>
+            <h1 className='sub-tittle'>Tec MM Unidad Academica Zapopan, Guadalajara, Jalisco</h1>
+
+            <p className='text-content'>
+              Joven con pasión por su profesión que busca mejorar en el desarrollo
+              web, usuario de sistemas de linux y aplicaciones open source y que busca
+              busca convertirse en un desarrolador full stack a la vez que aprende nuevas
+              habilidades y tecnologias.
+            </p>
+            <h1 className='sub-tittle'>Actualmente trabajo como codficador externo para Bansi SA</h1>
 
           </div>
 
