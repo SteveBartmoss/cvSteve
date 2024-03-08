@@ -128,6 +128,9 @@ function App() {
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Skills</h1>
+              <h1 className='sub-tittle'>Lenguajes de Programacion</h1>
+              <h1 className='sub-tittle'>Frameworks y Librerias</h1>
+              <h1 className='sub-tittle'>Estoy Aprendiendo</h1>
             </div>
 
           </div>
