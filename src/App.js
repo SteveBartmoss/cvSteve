@@ -116,11 +116,12 @@ function App() {
               <h1 className='tittle-section'>Educacion</h1>
             </div>
 
-            <h1 className='sub-tittle'>Tec MM Unidad Academica Zapopan, Guadalajara, Jalisco</h1>
-
-            <p className='text-content'>
-              2019 - 2024 Actualmente soy egresado de la carrera de Ingenieria en Sistemas
-            </p>
+            <div className='div-content'>
+              <h1 className='sub-tittle'>Tec MM Unidad Academica Zapopan, Guadalajara, Jalisco</h1>
+              <p className='text-content'>
+                2019 - 2024 Actualmente soy egresado de la carrera de Ingenieria en Sistemas
+              </p>
+            </div>
 
           </div>
 
