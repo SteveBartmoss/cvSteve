@@ -2,6 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  const jumpToSection =(id)=>{
+    const section = document.getElementById(id);
+    console.log(id)
+    section.scrollIntoView({behavior: "smooth"});
+  }
+
   return (
     <div className="App App-header">
 
@@ -16,22 +23,28 @@ function App() {
           <div className='div-list'>
 
             <div>
-              <a className='nav-li' href='antonio'>Antonio</a>
+              <p onClick={()=>jumpToSection('antonio')}>antonio</p>
+              <a className='nav-li'  href='#'>Antonio</a>
             </div>
             <div>
-              <a className='nav-li' href='sobre-mi'>Sobre Mi</a>
+              <p onClick={()=>jumpToSection('sobre-mi')}>antonio</p>
+              <a className='nav-li'  href='sobre-mi'>Sobre Mi</a>
             </div>
             <div>
-              <a className='nav-li' href='porfolio'>Porfolio</a>
+              <p onClick={()=>jumpToSection('porfolio')}>antonio</p>
+              <a className='nav-li'  href='porfolio'>Porfolio</a>
             </div>
             <div>
-              <a className='nav-li' href='educacion'>Educacion</a>
+              <p onClick={()=>jumpToSection('educacion')}>antonio</p>
+              <a className='nav-li'  href='educacion'>Educacion</a>
             </div>
             <div>
-              <a className='nav-li' href='skills'>Skills</a>
+              <p onClick={()=>jumpToSection('skills')}>antonio</p>
+              <a className='nav-li'  href='skills'>Skills</a>
             </div>
             <div>
-              <a className='nav-li' href='contacto'>Contacto</a>
+              <p onClick={()=>jumpToSection('contacto')}>antonio</p>
+              <a className='nav-li'  href='contacto'>Contacto</a>
             </div>
 
           </div>
@@ -149,8 +162,8 @@ function App() {
             </div>
 
             <div className='div-content'>
-              <a className='link' href='https://github.com/MarcoAntonioGuadalupeRivasGuzman' rel="noopener noreferrer" target="_blank">GitHub</a>
-              <a className='link' href='mailto:za19012397@zapopan.tecmm.edu.mx'>Correo</a>
+              <p className='text-content'>Enviame un <a className='link2' href='mailto:za19012397@zapopan.tecmm.edu.mx'>Correo</a></p>
+              <p className='text-content'>Visita mi perfil de <a className='link2' href='https://github.com/MarcoAntonioGuadalupeRivasGuzman' rel="noopener noreferrer" target="_blank">GitHub</a></p>
             </div>
 
           </div>
