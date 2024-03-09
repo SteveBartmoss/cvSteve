@@ -23,28 +23,22 @@ function App() {
           <div className='div-list'>
 
             <div>
-              <p onClick={()=>jumpToSection('antonio')}>antonio</p>
-              <a className='nav-li'  href='#'>Antonio</a>
+              <p className='nav-li' onClick={()=>jumpToSection('antonio')}>Antonio</p>
             </div>
             <div>
-              <p onClick={()=>jumpToSection('sobre-mi')}>antonio</p>
-              <a className='nav-li'  href='sobre-mi'>Sobre Mi</a>
+              <p className='nav-li' onClick={()=>jumpToSection('sobre-mi')}>Sobre Mi</p>
             </div>
             <div>
-              <p onClick={()=>jumpToSection('porfolio')}>antonio</p>
-              <a className='nav-li'  href='porfolio'>Porfolio</a>
+              <p className='nav-li' onClick={()=>jumpToSection('porfolio')}>Porfolio</p>
             </div>
             <div>
-              <p onClick={()=>jumpToSection('educacion')}>antonio</p>
-              <a className='nav-li'  href='educacion'>Educacion</a>
+              <p className='nav-li' onClick={()=>jumpToSection('educacion')}>Educacion</p>
             </div>
             <div>
-              <p onClick={()=>jumpToSection('skills')}>antonio</p>
-              <a className='nav-li'  href='skills'>Skills</a>
+              <p className='nav-li' onClick={()=>jumpToSection('skills')}>Skills</p>
             </div>
             <div>
-              <p onClick={()=>jumpToSection('contacto')}>antonio</p>
-              <a className='nav-li'  href='contacto'>Contacto</a>
+              <p className='nav-li' onClick={()=>jumpToSection('contacto')}>Contacto</p>
             </div>
 
           </div>
