@@ -59,6 +59,14 @@
   color: white;
 }
 
+.link2{
+  font-size: 2rem;
+  font-weight: bold;
+  padding: .5rem;
+  text-decoration: none;
+  color: var(--aqua);
+}
+
 .div-flex{
   display: flex;
 }
