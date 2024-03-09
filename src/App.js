@@ -129,9 +129,15 @@ function App() {
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Skills</h1>
+            </div>
+
+            <div className='div-content'>
               <h1 className='sub-tittle'>Lenguajes de Programacion</h1>
+              <p className='text-content'>C Java Python Javascript</p>
               <h1 className='sub-tittle'>Frameworks y Librerias</h1>
+              <p className='text-content'>React Express</p>
               <h1 className='sub-tittle'>Estoy Aprendiendo</h1>
+              <p className='text-content'>Vue js Nest js</p>
             </div>
 
           </div>
@@ -140,6 +146,10 @@ function App() {
 
             <div className='div-tittle'>
               <h1 className='tittle-section'>Contacto</h1>
+            </div>
+
+            <div className='div-content'>
+              
             </div>
 
           </div>
