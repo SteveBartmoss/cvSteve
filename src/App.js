@@ -149,7 +149,8 @@ function App() {
             </div>
 
             <div className='div-content'>
-              
+              <a className='link' href='https://github.com/MarcoAntonioGuadalupeRivasGuzman' rel="noopener noreferrer" target="_blank">GitHub</a>
+              <a className='link' href='mailto:za19012397@zapopan.tecmm.edu.mx'>Correo</a>
             </div>
 
           </div>
