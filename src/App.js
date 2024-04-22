@@ -77,7 +77,7 @@ function App() {
                 busca convertirse en un desarrolador full stack a la vez que aprende nuevas
                 habilidades y tecnologias.
               </p>
-              <h1 className='sub-tittle'>Actualmente trabajo como codficador externo para Bansi SA</h1>
+              <h1 className='sub-tittle'>Actualmente trabajo como programador Junior en Grupo Carsol</h1>
             </div>
 
           </div>
