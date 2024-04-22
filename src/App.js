@@ -16,7 +16,7 @@ function App() {
         <div className='div-nav'>
 
           <div className='div-img'>
-            <img className='img-profile' src='/Assets/racheBartmoss.jpg' />
+            <img className='img-profile' src='/Assets/racheBartmoss.jpg'  alt='profileImg'/>
           </div>
 
           <div className='div-list'>
@@ -57,7 +57,7 @@ function App() {
               <p className='text-content'>Puedes contactar conmigo en mi correo</p>
               <div className='div-buttons'>
                 <button className='btn'>Generar CV</button>
-                <a className='link'>Ver CV</a>
+                <a className='link' href='#'>Ver CV</a>
               </div>
             </div>
 
@@ -91,7 +91,7 @@ function App() {
 
               <div className='card'>
                 <div className='div-img-card'>
-                  <img className='img-card' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+                  <img className='img-card' alt='gif1' src='https://media0.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=53b38410mpbuqxqk9rqx0lizb5vj0i6122m0ss07w0ptb3e3&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
                 </div>
                 <div className='div-content-card'>
                   <h1 className='tittle-card'>GifExpert App</h1>
@@ -103,7 +103,7 @@ function App() {
 
               <div className='card'>
                 <div className='div-img-card'>
-                  <img className='img-card' src='https://media0.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif?cid=53b38410859r2noo4mtwsxsutzjbksi2voz4kt2vm5p19qac&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
+                  <img className='img-card' alt='gif2' src='https://media0.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif?cid=53b38410859r2noo4mtwsxsutzjbksi2voz4kt2vm5p19qac&ep=v1_gifs_search&rid=giphy.gif&ct=g' />
                 </div>
                 <div className='div-content-card'>
                   <h1 className='tittle-card'>Oraculo App</h1>
