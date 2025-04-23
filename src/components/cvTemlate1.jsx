@@ -7,7 +7,9 @@ export function CvTemplate1(){
                 <div className="div-flex">
 
                     <div className='div-nav'>
-
+                        <div className='div-img'>
+                            <img className='img-profile' src='/Assets/racheBartmoss.jpg'  alt='profileImg' />
+                        </div>
                     </div>
                 </div>
             </div>
