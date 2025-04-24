@@ -136,7 +136,20 @@ export function CvTemplate1() {
                                     </div>
 
                                 </div>
-                                
+
+                                <div className='div-section' id='contacto'>
+
+                                    <div className='div-tittle'>
+                                        <h1 className='tittle-section'>Contacto</h1>
+                                    </div>
+
+                                    <div className='div-content'>
+                                        <p className='text-content'>Enviame un <a className='link2' href='mailto:za19012397@zapopan.tecmm.edu.mx'>Correo</a></p>
+                                        <p className='text-content'>Visita mi perfil de <a className='link2' href='https://github.com/MarcoAntonioGuadalupeRivasGuzman' rel="noopener noreferrer" target="_blank">GitHub</a></p>
+                                    </div>
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
