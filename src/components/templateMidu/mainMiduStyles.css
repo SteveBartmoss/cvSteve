@@ -1,0 +1,17 @@
+.main-container{
+    background-color:  #02061e;
+    height: 100vh;
+}
+
+.main-section{
+    width: 50%;
+    margin: auto;
+}
+
+.main-section h1 {
+    font-size: 2.5rem;
+}
+
+.main-section h2 {
+    font-size: 1.5rem;
+}
