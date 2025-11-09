@@ -1,4 +1,5 @@
 import './App.css';
+import { MainBrittany } from './components/templateBrittany/templateBrittany';
 import { MainMidu } from './components/templateMidu/mainMidu';
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
   }
 
   return (
-    <MainMidu />
+    <MainBrittany />
   );
 }
 
