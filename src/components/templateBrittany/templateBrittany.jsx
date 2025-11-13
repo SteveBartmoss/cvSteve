@@ -51,11 +51,10 @@ export function MainBrittany() {
                             </p>
 
                             <p>
-                                Anteriormente tuve la oportunidad de trabajar para grupo carsol en su equipo de desarrollo, 
-                                donde forme parte del proyecto de la creacion del nuevo crm para el uso interno de las agencias 
-                                automotrices del grupo, migraba la logica del negocio de la primera version del crm hacia la version 
-                                dos, tambien colabore en el desarrollo de nuevos modulos para la nueva version del crm y estuve en 
-                                el inicio de la comercializacion del crm para otras agencias automotrices.
+                                Anteriormente formé parte del equipo de desarrollo de Grupo Carsol, donde participé en la creación del nuevo CRM 
+                                para el uso interno de sus agencias automotrices. Mi labor incluyó la migración de la lógica de negocio desde la primera 
+                                versión del sistema hacia la nueva versión, así como la implementación de nuevos módulos y funcionalidades. 
+                                También colaboré en las etapas iniciales de la comercialización del CRM para otras agencias del sector automotriz.
                             </p>
 
                             <p>
