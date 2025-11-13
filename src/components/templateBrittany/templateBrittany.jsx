@@ -38,8 +38,10 @@ export function MainBrittany() {
                     <div>
                         <div>
                             <p>
-                                Desarrollador web fullstack apasionado por crear aplicaciones
-                                para la administracion empresarial o crm personalizados,
+                                Desarrollador web fullstack apasionado por crear soluciones tecnológicas eficientes, 
+                                especialmente enfocadas en la administración empresarial y el desarrollo de CRM personalizados. 
+                                Cuento con experiencia en los frameworks React, Vue, Express y NestJS, así como en bases de datos MySQL, 
+                                PostgreSQL y SQL Server.
                             </p>
 
                             <p>
