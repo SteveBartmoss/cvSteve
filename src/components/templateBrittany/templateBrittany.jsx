@@ -45,10 +45,9 @@ export function MainBrittany() {
                             </p>
 
                             <p>
-                                Actualmente soy desarrollador fullstack para la empresa highPower Mexico 
-                                donde cordino a una persona para dar soporte y mantenimiento a las aplicaciones 
-                                de uso interno de la empresa, asi como el desarrollo de nuevos proyectos y actualizciones 
-                                de los proyectos existentes
+                                Actualmente me desempeño como desarrollador fullstack en HighPower México, donde coordino a un integrante del equipo encargado del soporte 
+                                y mantenimiento de las aplicaciones internas de la empresa. También participo activamente en el desarrollo de nuevos proyectos y en la actualización 
+                                y mejora de los sistemas existentes.
                             </p>
 
                             <p>
