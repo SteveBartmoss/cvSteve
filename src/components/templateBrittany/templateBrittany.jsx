@@ -58,8 +58,10 @@ export function MainBrittany() {
                             </p>
 
                             <p>
-                                En mi tiempo libre me dedico a desarrollar software de uso libre, actualmente cuento con 
-                                dos paquetes publicados en npm, los cuales actualizo, pruebo y mejoro por mi cuenta. 
+                                En mi tiempo libre me dedico al desarrollo de software libre, manteniendo actualmente dos paquetes publicados en npm, 
+                                los cuales actualizo, pruebo y mejoro de manera independiente. Entre mis principales intereses se encuentran colaborar 
+                                en proyectos GNU, aprender más sobre Linux, crear librerías y utilidades de código abierto, desarrollar mi propio CRM y 
+                                seguir perfeccionando mis habilidades como desarrollador web.
                             </p>
                         </div>
 
